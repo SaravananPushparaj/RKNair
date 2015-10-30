@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [test]">
+  <test name="ft(failed)">
+    <classes>
+      <class name="TestCases.BookSearch_TestCase">
+        <methods>
+          <include name="Valid_bookSearch" invocation-numbers="2"/>
+        </methods>
+      </class> <!-- TestCases.BookSearch_TestCase -->
+    </classes>
+  </test> <!-- ft(failed) -->
+</suite> <!-- Failed suite [test] -->

@@ -1,0 +1,24 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Selenium Test" parallel="false" thread-count="5">
+	<test name="CompleteTest">
+		<packages>
+			<package name="TestCases"></package>
+		</packages>
+		
+		<!-- groups>
+			<run>
+				<include name="SmokeTest"></include>
+				<include name="RegressionTest"></include>
+				<exclude name="RegressionTest"></exclude>
+			</run>
+		</groups>  -->
+		
+		<classes> <class name="TestCases.LoginTestcase"> </class>
+					<class name="TestCases.BookSearch_TestCase"></class>
+					<class name="TestCases.BookCart_TestCase"></class>
+					 
+		</classes> 
+		
+
+	</test>
+</suite>

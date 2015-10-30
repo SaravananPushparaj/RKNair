@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="102938" started-at="2015-10-25T03:23:14Z" finished-at="2015-10-25T03:24:57Z">
+    <groups>
+      <group name="RegressionTest">
+        <method signature="LoginTestcase.Invalid_login(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestCases.LoginTestcase@153f920]" name="Invalid_login" class="TestCases.LoginTestcase"/>
+      </group> <!-- RegressionTest -->
+    </groups>
+    <test name="Default test" duration-ms="102938" started-at="2015-10-25T03:23:14Z" finished-at="2015-10-25T03:24:57Z">
+      <class name="TestCases.LoginTestcase">
+        <test-method status="PASS" signature="Invalid_login(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestCases.LoginTestcase@153f920]" name="Invalid_login" duration-ms="19014" started-at="2015-10-25T08:53:16Z" data-provider="DP_Invalidlogin" finished-at="2015-10-25T08:53:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[GB_01]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Raje]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[hjkh]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Sorry we were unable to complete this step because :]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Invalid_login -->
+        <test-method status="PASS" signature="Invalid_login(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestCases.LoginTestcase@153f920]" name="Invalid_login" duration-ms="16765" started-at="2015-10-25T08:53:35Z" data-provider="DP_Invalidlogin" finished-at="2015-10-25T08:53:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[GB_02]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sfag]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[avioto]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Sorry we were unable to complete this step because :]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Invalid_login -->
+        <test-method status="PASS" signature="Invalid_login(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestCases.LoginTestcase@153f920]" name="Invalid_login" duration-ms="15876" started-at="2015-10-25T08:53:52Z" data-provider="DP_Invalidlogin" finished-at="2015-10-25T08:54:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[GB_03]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[fg]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Sorry we were unable to complete this step because :]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Invalid_login -->
+        <test-method status="PASS" signature="Invalid_login(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestCases.LoginTestcase@153f920]" name="Invalid_login" duration-ms="17309" started-at="2015-10-25T08:54:07Z" data-provider="DP_Invalidlogin" finished-at="2015-10-25T08:54:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[GB_04]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[hjkh]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Sorry we were unable to complete this step because :]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Invalid_login -->
+        <test-method status="PASS" signature="Invalid_login(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestCases.LoginTestcase@153f920]" name="Invalid_login" duration-ms="15368" started-at="2015-10-25T08:54:25Z" data-provider="DP_Invalidlogin" finished-at="2015-10-25T08:54:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[GB_05]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Sorry we were unable to complete this step because :]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Invalid_login -->
+        <test-method status="PASS" signature="Invalid_login(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestCases.LoginTestcase@153f920]" name="Invalid_login" duration-ms="17082" started-at="2015-10-25T08:54:40Z" data-provider="DP_Invalidlogin" finished-at="2015-10-25T08:54:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[GB_06]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[rsj]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[jhj]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Sorry we were unable to complete this step because :]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Invalid_login -->
+      </class> <!-- TestCases.LoginTestcase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
